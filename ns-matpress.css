@@ -1,0 +1,21 @@
+#wp_wall p {
+  margin-top:4px;
+  margin-bottom:4px;
+}
+#wallcomments p
+{
+  margin-top:5px;
+  margin-bottom:5px;
+}
+#wall_post input
+{
+  border: 1px solid #cccccc;
+}
+
+.nsmpoutput {
+  color:black;
+}
+
+.nsmphidden {
+  display:inline;
+}
